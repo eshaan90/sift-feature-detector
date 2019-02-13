@@ -2,4 +2,9 @@
 Scale Invariant Laplacian Blob Detector for key point detection in images
 
 
-![einstein](imgs/einstein.png)
+# Results:
+
+![einstein](imgs/einstein.png = 250x250)
+
+
+![people](imgs/people.png | width=250)
